@@ -1,4 +1,4 @@
-package com.ria.scratchpad.arrays;
+package com.ria.scratchpad;
 
 /**
  * Leetcode: 169
